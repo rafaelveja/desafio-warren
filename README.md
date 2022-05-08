@@ -1,5 +1,5 @@
 # desafio-warren
-O desafio foi feito utilizando Java, em sua versão 11. 
+Os desafios 1 e 2 foram feitos utilizando Java, em sua versão 11. 
 Pré Requisitos:
  - Java 11
 Como executar o desafio:
